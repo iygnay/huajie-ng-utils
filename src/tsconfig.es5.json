@@ -22,7 +22,7 @@
     "strictMetadataEmit": true,
     "skipTemplateCodegen": true,
     "flatModuleOutFile": "utils.js",
-    "flatModuleId": "utils"
+    "flatModuleId": "@huajie-ng/utils"
   },
   "files": [
     "./index.ts"
